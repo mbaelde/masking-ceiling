@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+uv.lock
+CLAUDE.md
+logs/
+scratch/
+figures/*.pdf
+figures/*.png
